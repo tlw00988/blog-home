@@ -1,7 +1,7 @@
 ---
 title: 我自己的其他网站
 date: 2024-8-23
-tags: [标签1, 标签2]
+tags: [其他网站,兼导航]
 head:
   - - meta
     - name: description
