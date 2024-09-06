@@ -18,5 +18,5 @@ head:
 
 ---
 
-http://res.alhsk.us.kg:1919 (没错，有端口，而且是http) --基于alist的资源站  
+http://res.alhsk.us.kg:50009 (没错，有端口，而且是http) --基于alist的资源站  
 http://copilot.alhsk.us.kg/ (没错 http) --基于cloudflare pages的copilot（登录有点毛病）
